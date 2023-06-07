@@ -1,0 +1,24 @@
+languages:
+  python:
+    level: Junior
+    libraries: [Pandas, NumPy, Pytorch]
+    frameworks: [Flask, Django]
+  rust:
+    level: Pre-junior
+    libraries: None
+    frameworks: None
+  Javascript: 
+    level: Pre-junior
+    libraries: None
+    frameworks: Angular
+
+list_level_1:
+  - 2
+  - element2
+  - true
+  - list_level_2:
+    - element1
+    - element2
+    - element3
+
+string: This is a string.
